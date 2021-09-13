@@ -3,7 +3,7 @@
 <h1>Algorithm Visualizer</h1>
 
 <h2>Purpose</h2>
-This project was originally started to get a better understanding for Html ,Css and Javascript . I also was interested in different types of pathfinding algorithms and wanted to be able to better visualize how they work.
+This project was originally started to get a better understanding for Html ,Css , Javascript and Jquery . I also was interested in different types of pathfinding algorithms and wanted to be able to better visualize how they work.
 Once I finished getting some basic pathfinding algorithms I decided I wanted to see how different sorting algorithms worked too.
 
 The project can be accessed here: https://deep4rock.github.io/Sorting-and-Path-Finding-Visualizer/
